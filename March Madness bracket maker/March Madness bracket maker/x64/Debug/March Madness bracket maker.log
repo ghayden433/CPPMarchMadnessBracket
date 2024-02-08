@@ -1,0 +1,4 @@
+﻿  BracketMaker.cpp
+C:\Users\Hayden\source\repos\March Madness bracket maker\March Madness bracket maker\BracketMaker.cpp(8,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hayden\source\repos\March Madness bracket maker\March Madness bracket maker\BracketMaker.cpp(10,9): warning C4101: 'winner': unreferenced local variable
+  March Madness bracket maker.vcxproj -> C:\Users\Hayden\source\repos\March Madness bracket maker\x64\Debug\March Madness bracket maker.exe
